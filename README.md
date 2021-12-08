@@ -1,6 +1,5 @@
-# GPS Tracking - ADDED on DEV
+# GPS Tracking - ADDED on DEV 2x
 
-What is GPS Tracking Tool?
 It is a GPS-aware application, which will provide your current location and much more.
 
 ## How to install this apk file on your Android device?
